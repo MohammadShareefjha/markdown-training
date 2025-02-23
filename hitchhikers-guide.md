@@ -52,7 +52,7 @@ The Babel fish is small, yellow, and leech-like, and probably the oddest thing i
 ## Famous Destinations
 
 ### The Restaurant at the End of the Universe
-![Restaurant at the End of the Universe](/api/placeholder/400/200)
+![Restaurant at the End of the Universe](https://www.youtube.com/watch?v=Z1Ba4BbH0oY)
 *Enjoy watching the end of everything while having a nice meal*
 
 ### Magrathea
