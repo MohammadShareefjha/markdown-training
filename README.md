@@ -1,4 +1,4 @@
-**Welcome, New Recruits!**
+# Welcome, New Recruits!
 
 The Hitchhiker's Guide to the Galaxy is the most **massively useful** guide for navigating the universe. As new members of the Guide's editorial team, your mission is to ensure its accuracy and expand its knowledge base.
 
