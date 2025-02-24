@@ -1,5 +1,7 @@
 # Welcome, New Recruits!
 
+![cosmic-cutie](readme-header.png)
+
 The Hitchhiker's Guide to the Galaxy is the most **massively useful** guide for navigating the universe. As new members of the Guide's editorial team, your mission is to ensure its accuracy and expand its knowledge base.
 
 But beware! The universe is a chaotic place, and the Guide is constantly evolving. You'll need to master the art of **Git** to keep up with the changes and collaborate with your fellow editors.
