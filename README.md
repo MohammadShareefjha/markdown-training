@@ -12,7 +12,7 @@ Your first task is to familiarize yourself with the Guide's source code, which i
 
 ### 1. **Clone and Track the Guide:**
 
-- Clone the "Hitchhiker's Guide to the Galaxy" repository to your local machine using the command `git clone <repo-url>`.
+- Clone the "Hitchhiker's Guide to the Galaxy" repository to your local machine using the command `git clone https://github.com/vstokes/markdown-training` 
 - Navigate to the directory containing the cloned repository.
 - Now Git is tracking the Guide, ready for your contributions!
   - validate with `git status`
