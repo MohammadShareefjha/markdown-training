@@ -13,9 +13,8 @@ Your first task is to familiarize yourself with the Guide's source code, which i
    - First, fork the "Hitchhiker's Guide to the Galaxy" repository on GitHub to create your own copy.
    - Clone your forked repository to your local machine using the command `git clone <your-forked-repo-url>`.
    - Navigate to the directory containing the cloned repository.
-   - Initialize a Git repository using the command `git init`.
-   - Add the Markdown file to the staging area using `git add .`.
    - Now Git is tracking the Guide, ready for your contributions!
+     - validate with `git status`
 
 2. **Pull the Latest Updates:**
 
@@ -33,7 +32,7 @@ Your first task is to familiarize yourself with the Guide's source code, which i
    - You've encountered a new species of alien on your travels. It's time to add them to the Guide!
    - Create a new branch for this entry using `git checkout -b new-alien-entry`.
    - Add the details of the alien species, including their name, planet of origin, and any notable quirks.
-   - Commit your changes and push the branch to the remote repository.
+   - Commit your changes and push the branch to the remote repository using `git push origin new-alien-entry`.
 
 5. **Merge Your Branch:**
 
