@@ -89,9 +89,9 @@ In case of Vogon Poetry:
 ## Further Reading
 
 * [The Original Radio Scripts](https://www.amazon.com/Original-Hitchhiker-Radio-Scripts/dp/0517559501)
-* [The Five-Book Trilogy](about:blank)
-* [The TV Series](about:blank)
-* [The Movie Adaptation](about:blank)
+* [The Five-Book Trilogy](https://www.amazon.com/Hitchhiker-Trilogy-5-Books/dp/0330437569)
+* [The TV Series](https://www.imdb.com/title/tt0081874/)
+* [The Movie Adaptation](https://www.imdb.com/title/tt0371724/)
 
 ---
 
