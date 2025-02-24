@@ -12,14 +12,17 @@ Your first task is to familiarize yourself with the Guide's source code, which i
 
 ### 1. **Clone and Track the Guide:**
 
-- Clone the "Hitchhiker's Guide to the Galaxy" repository to your local machine using the command `git clone https://github.com/vstokes/markdown-training` 
+- Clone the "Hitchhiker's Guide to the Galaxy" repository to your local machine using the command `git clone https://github.com/vstokes/markdown-training`
 - Navigate to the directory containing the cloned repository.
 - Now Git is tracking the Guide, ready for your contributions!
   - validate with `git status`
 
 ### 2. **Pull the Latest Updates:**
 
-- The Guide is constantly being updated by editors across the galaxy. Use `git pull origin main` to pull the latest changes from the main branch of the Guide's repository.
+- The Guide is constantly being updated by editors across the galaxy. Use `git pull origin main` to pull the latest changes from the main branch of the Guide's repository
+
+#### **Merge Conflicts:**
+
 - Uh oh! It looks like another editor has made changes to the same section you were working on. Resolve the merge conflicts carefully to avoid creating paradoxes in the space-time continuum.
 
 ### 3. **Create a Branch for Your Work:**
