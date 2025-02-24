@@ -23,6 +23,8 @@ Your first task is to familiarize yourself with the Guide's source code, which i
 
 #### **Merge Conflicts:**
 
+> :warning: **Merge Conflict Shouldn't be Detected!** :warning:
+
 - Uh oh! It looks like another editor has made changes to the same section you were working on. Resolve the merge conflicts carefully to avoid creating paradoxes in the space-time continuum.
 
 ### 3. **Create a Branch for Your Work:**
