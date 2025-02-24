@@ -4,7 +4,7 @@ The Hitchhiker's Guide to the Galaxy is the most **massively useful** guide for 
 
 But beware! The universe is a chaotic place, and the Guide is constantly evolving. You'll need to master the art of **Git** to keep up with the changes and collaborate with your fellow editors.
 
-**Your Adventure Begins**
+### **Your Adventure Begins**
 
 Your first task is to familiarize yourself with the Guide's source code, which is written in **Markdown**. This lightweight markup language is easy to read and write, making it perfect for interstellar hitchhikers.
 
