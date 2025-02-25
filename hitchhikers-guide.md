@@ -83,7 +83,7 @@ In case of Vogon Poetry:
 | "42" | *Unknown* | Universal answer |
 
 ## Guide Entry: Earth
-> "Mostly harmless"
+> "Mostly Harmless"
 > 
 > *— Complete entry in the Guide, revised edition*
 
