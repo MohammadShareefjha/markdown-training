@@ -40,6 +40,7 @@ def meaning_of_life():
 2. Miss
 3. *Important:* Don't think about it too much
 4. **Warning:** Landing is optional
+5. Add some wings
 
 ### 2. Babel Fish Usage Instructions
 The Babel fish is small, yellow, and leech-like, and probably the oddest thing in the Universe. Here's how to use it:
